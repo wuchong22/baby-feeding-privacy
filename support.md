@@ -3,9 +3,5 @@
 感谢使用「宝宝喂养记录」App！如需帮助请发邮件至  
 **superpm@qq.com**
 
----
-
-**常见问题（可选）**
-1. 如何备份数据？  
-2. 如何导出 CSV？  
-3. 会员购买遇到问题怎么办？  
+Thank you for using the Baby Feeding Records App. For help, please email 
+**superpm@qq.com**
