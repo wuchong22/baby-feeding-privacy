@@ -1,3 +1,42 @@
+Baby Feeding Diary App – Privacy Policy
+
+Last Updated: September 23, 2025
+Effective Date: September 23, 2025
+
+We respect and protect user privacy and are committed to safeguarding your data to the greatest extent possible.
+
+1. Data Collection and Use
+
+Local Storage: Feeding, sleep, stool, and other records are stored only on your device (CoreData) and are not uploaded to any server.
+
+No Personal Identity Data: No registration or login is required. We do not collect names, ID numbers, contact details, or similar information.
+
+No Advertising SDKs: We do not share your data with third parties, nor do we integrate advertising SDKs.
+
+2. Membership Purchases
+
+Membership payments are processed via App Store In-App Purchases. All transactions are handled by Apple. We do not have access to or store your payment information.
+
+3. Permissions
+
+This app does not request access to sensitive permissions such as contacts, location, camera, or microphone by default. Relevant system capabilities are only invoked when you explicitly choose to export or share data.
+
+4. Data Security and Risk Notice
+
+All data is stored locally on your device. Please safeguard your device properly. The developer is not responsible for data loss caused by device loss, damage, or system reset.
+
+5. Children’s Privacy
+
+This app is intended for use by parents and guardians, not directly by children. We do not knowingly collect personal information from children.
+
+6. Policy Updates
+
+This Privacy Policy may be updated from time to time and will be published within the app or on a webpage. Updates become effective immediately upon release.
+
+Latest Revision Date: September 23, 2025
+
+
+
 宝宝喂养记录APP 《隐私政策》
 
 更新日期：2025/9/23
